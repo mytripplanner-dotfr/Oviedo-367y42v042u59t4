@@ -1,0 +1,209 @@
+{
+  "pays": "Espagne",
+  "drapeau": "🇪🇸",
+  "symbole": "🏰",
+  "titre": "Escapade Relaxante à Oviedo, Cœur des Asturies",
+  "budget_total": "Environ 900 €/personne",
+  "duree": "4 jours",
+  "date_debut": "2026-08-24",
+  "date_fin": "2026-08-28",
+  "temps_vol": "Environ 4h-6h (avec escale) depuis Lyon, France",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douce Immersion dans la Capitale Asturienne",
+      "legende": "Après un voyage tranquille, installez-vous confortablement et laissez-vous charmer par l'atmosphère paisible d'Oviedo. Une première balade dans le centre historique vous offrira un aperçu de son riche passé et de son architecture élégante. Profitez de cette soirée pour savourer les premières saveurs locales et vous imprégner de l'ambiance asturienne.",
+      "lieu": "Oviedo",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport des Asturies (OVD) et transfert vers Oviedo. Prenez le temps de vous installer et de vous détendre après le vol.",
+        "<strong>🛏️</strong>: Installation à votre hôtel au cœur d'Oviedo. Profitez du confort de votre hébergement pour un moment de repos.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante dans le Casco Antiguo (Vieille Ville) d'Oviedo. Découvrez les ruelles pavées et l'architecture médiévale en toute quiétude."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport des Asturies, Castrillón",
+          "categorie": "Aéroport",
+          "coords": { "lat": 43.5647, "lng": -6.0347 }
+        },
+        {
+          "nom_recherche": "Cathédrale San Salvador, Oviedo",
+          "categorie": "Monument historique",
+          "coords": { "lat": 43.3621, "lng": -5.8447 }
+        }
+      ],
+      "illustration": "jour1_oviedo.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert",
+          "texte": "L'aéroport des Asturies (OVD) est à environ 47 km d'Oviedo. Des bus (Alsa) ou taxis sont disponibles pour le transfert, comptez environ 45 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Trésors Préromans et Pause Gourmande",
+      "legende": "Plongez dans l'histoire millénaire des Asturies avec la découverte de ses joyaux préromans, classés au patrimoine mondial de l'UNESCO. L'après-midi sera dédiée à une exploration plus intime de la ville, entre parcs verdoyants et dégustations locales. Une journée équilibrée entre culture et détente, ponctuée de saveurs authentiques.",
+      "lieu": "Oviedo",
+      "activites": [
+        "<strong>⛪</strong>: Visite des églises préromanes de Santa María del Naranco et San Miguel de Lillo. Admirez ces chefs-d'œuvre architecturaux uniques du IXe siècle.",
+        "<strong>🌳</strong>: Promenade paisible dans le Campo de San Francisco. Ce grand parc urbain est parfait pour une balade relaxante au milieu de la verdure.",
+        "<strong>🍷</strong>: Dégustation de cidre asturien dans une \"sidrería\" traditionnelle. Observez le rituel de l'\"escanciado\" et savourez cette boisson emblématique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Santa María del Naranco, Oviedo",
+          "categorie": "Monument historique",
+          "coords": { "lat": 43.3742, "lng": -5.8601 }
+        },
+        {
+          "nom_recherche": "San Miguel de Lillo, Oviedo",
+          "categorie": "Monument historique",
+          "coords": { "lat": 43.3746, "lng": -5.8606 }
+        },
+        {
+          "nom_recherche": "Campo de San Francisco, Oviedo",
+          "categorie": "Parc",
+          "coords": { "lat": 43.3601, "lng": -5.8480 }
+        },
+        {
+          "nom_recherche": "Sidrería El Ferroviario, Oviedo",
+          "categorie": "Restaurant / Bar à cidre",
+          "coords": { "lat": 43.3605, "lng": -5.8455 }
+        }
+      ],
+      "illustration": "jour2_oviedo.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Le Saviez-vous ?",
+          "texte": "Les églises préromanes d'Oviedo sont des chefs-d'œuvre uniques de l'architecture du IXe siècle, témoins du Royaume des Asturies et classées UNESCO."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌊",
+      "titre": "Détente Thermale et Charme Côtier",
+      "legende": "Évadez-vous de la ville pour une journée de pure relaxation. Commencez par les bienfaits des sources thermales, puis laissez-vous bercer par la brise marine sur une plage tranquille. Une parenthèse de douceur pour recharger les batteries et profiter des paysages variés des Asturies.",
+      "lieu": "Las Caldas / Gijón",
+      "activites": [
+        "<strong>♨️</strong>: Matinée détente aux Thermes de Las Caldas. Profitez des piscines thermales et des soins pour un moment de bien-être absolu.",
+        "<strong>🏖️</strong>: Après-midi \"farniente\" sur la plage de San Lorenzo à Gijón. Laissez le sable fin et les vagues vous apaiser.",
+        "<strong>🚶‍♀️</strong>: Balade le long du \"Muro\" de Gijón au coucher du soleil. Admirez la vue sur la mer et la ville illuminée, une fin de journée parfaite."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Balneario de Las Caldas, Oviedo",
+          "categorie": "Thermes",
+          "coords": { "lat": 43.3283, "lng": -5.9008 }
+        },
+        {
+          "nom_recherche": "Plage de San Lorenzo, Gijón",
+          "categorie": "Plage",
+          "coords": { "lat": 43.5469, "lng": -5.6587 }
+        },
+        {
+          "nom_recherche": "Muro de San Lorenzo, Gijón",
+          "categorie": "Promenade",
+          "coords": { "lat": 43.5469, "lng": -5.6587 }
+        }
+      ],
+      "illustration": "jour3_oviedo.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Las Caldas est à environ 8 km d'Oviedo (bus local). Gijón est à environ 30 km d'Oviedo (bus Alsa réguliers, environ 30-40 min de trajet)."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Saveurs Locales et Douceurs d'Adieu",
+      "legende": "Imprégnez-vous de l'ambiance locale en visitant un marché traditionnel, où les couleurs et les parfums des Asturies s'entremêlent. L'après-midi sera consacrée à la découverte des douceurs sucrées de la région, avant de profiter d'une dernière soirée paisible. Une journée pour savourer les derniers instants de votre séjour.",
+      "lieu": "Oviedo",
+      "activites": [
+        "<strong>🛍️</strong>: Visite du Mercado El Fontán. Flânez entre les étals colorés et découvrez les produits frais et spécialités locales.",
+        "<strong>🍰</strong>: Dégustation de \"Carbayones\" et autres pâtisseries asturiennes. Laissez-vous tenter par ces délices sucrés, parfaits pour une pause gourmande.",
+        "<strong>🚶‍♀️</strong>: Dernière balade dans le centre historique et dîner d'adieu. Profitez une dernière fois de l'atmosphère charmante d'Oviedo et de sa gastronomie."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercado El Fontán, Oviedo",
+          "categorie": "Marché",
+          "coords": { "lat": 43.3603, "lng": -5.8457 }
+        },
+        {
+          "nom_recherche": "Confitería Rialto, Oviedo",
+          "categorie": "Pâtisserie",
+          "coords": { "lat": 43.3608, "lng": -5.8462 }
+        }
+      ],
+      "illustration": "jour4_oviedo.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le Mercado El Fontán est idéal pour acheter des produits locaux comme le fromage Cabrales, les \"fabes\" (haricots blancs) ou des \"embutidos\" (charcuteries)."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "92 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 50 €/pers (bus, taxi)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 330 €/pers (4 jours, 3 repas/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 360 €/pers (4 nuits, base chambre double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/pers (thermes, musées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Août", "symbole": "☀️" },
+    { "titre": "Septembre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En août, les températures à Oviedo varient entre 18 et 25°C. Le temps peut être changeant, prévoyez des vêtements pour toutes les saisons (couches, imperméable).", "symbole": "🌦️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées. Prévoir un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Les transports en commun (bus Alsa) sont efficaces pour se déplacer entre les villes des Asturies. Pour plus de flexibilité, une voiture de location peut être envisagée.", "symbole": "🚌" },
+    { "titre": "La langue officielle est l'espagnol, mais l'asturien est également parlé. Quelques notions d'espagnol seront appréciées.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Oviedo est la seule ville au monde à avoir une statue de Woody Allen. Le réalisateur américain a reçu le Prix Prince des Asturies en 2002 et a déclaré: \"Oviedo est une ville délicieuse, exotique, propre, agréable, tranquille et piétonne. C'est comme si elle n'appartenait pas à ce monde, comme si elle n'existait pas... Oviedo est un conte de fées.\""
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Le cidre asturien ne se boit pas, il se \"verse\" ! L'\"escanciado\" est l'art de verser le cidre de très haut dans le verre pour l'aérer et libérer ses arômes. On ne remplit jamais le verre entier, juste un \"culín\" (petite quantité) à boire d'un trait."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Fabada Asturiana",
+      "description": "Un ragoût copieux et réconfortant à base de \"fabes\" (haricots blancs), de \"lacón\" (épaule de porc), de \"chorizo\" et de \"morcilla\" (boudin noir). Un plat emblématique des Asturies."
+    },
+    {
+      "symbole": "🥩",
+      "titre": "Cachopo",
+      "description": "Deux grandes escalopes de veau panées et frites, farcies de jambon serrano et de fromage asturien. Un plat généreux et savoureux, souvent servi avec des frites."
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Carbayones",
+      "description": "Une pâtisserie typique d'Oviedo, composée d'une base de pâte feuilletée, d'une garniture aux amandes et d'un glaçage au sucre. Un délice sucré à ne pas manquer."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/LYS-OVD/2026-08-24/2026-08-28", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Asturies", "url": "https://www.turismoasturias.es/fr", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Alsa (Bus)", "url": "https://www.alsa.es/fr", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "AEMET (Météo Espagne)", "url": "https://www.aemet.es/fr/portada", "symbole": "🌤️" }
+  ]
+}
